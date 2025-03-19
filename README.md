@@ -1,6 +1,6 @@
 
 # From education to career: insights dashboard
-
+**_Note: The dashboard and data labels are in Lithuanian._**  
 ## Problem statement
 
 This dashboard provides insights into students' academic performance, career progression, and job market trends. The goal is to uncover patterns in the relationship between GPA, job offers, career satisfaction, and work-life balance. With these insights, educational institutions and students can make better decisions about career planning and skill development.
